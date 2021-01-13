@@ -1,0 +1,4 @@
+*.swp
+*.vim
+InferenceHelpers/__pycache__/*
+InferenceHelpers.egg-info/*
